@@ -4,7 +4,7 @@ The eternal *slider* - written by every developer at some point in their career,
 
 ## But maaaaaa why a slider?
 
-Sliders can become very complex.  To combat this, it presents us the opportunity to employ design patterns and utilize performance optimizations.  The goal of this exercise isn't so much as to produce a slider but to *learn the lessons* in architecting one.
+Sliders can often suffer from feature bloat and become very complex.  However, this presents developers the opportunity to employ design patterns and utilize performance optimizations.  The goal of this exercise isn't so much as to produce a slider but to *learn the lessons* in architecting one.
 
 ## Wats a slider?
 
