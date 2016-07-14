@@ -1,12 +1,10 @@
 # Exercise: Javascript Slider
 
-The eternal *slider* - written by every developer at some point in their career, it's the backbone of crappy Wordpress sites everywhere.  In this exercise, your mission is to build one of these creatures.
+The eternal *slider* - written by every developer at some point in their career, it's the backbone of crappy Wordpress sites everywhere.  In this exercise, your goal is to build one of these creatures.
 
 ## But maaaaaa why a slider?
 
-Sliders can become very complex.  As requirements change, often developers will often just create new ones, breeding them like rabbits - we don't want this.
-
-To prevent this complexity, it presents us the opportunity to employ design patterns and utilize performance optimizations.  The goal of this exercise isn't so much as to produce a slider but to *learn the lessons* in architecting one.
+Sliders can become very complex.  To combat this, it presents us the opportunity to employ design patterns and utilize performance optimizations.  The goal of this exercise isn't so much as to produce a slider but to *learn the lessons* in architecting one.
 
 ## Wats a slider?
 
@@ -25,11 +23,11 @@ To normalize this exercise, HTML and CSS are provided in index.html.  Write a ja
 You can use libraries like JQuery or Zepto or even pure Javascript if you want (take advantage of ECMAScript6).  You can add and modify the CSS in ```index.html``` but not the html structure.
 
 ### Requirements
-* Auto calculate number of slides based on provided HTML and work from there.
+* Auto calculate number of slides based on provided HTML and perform with that information.
 * Generate clickable indicator bubble elements based on number of slides.
 * Controls that provide previous/next functionality
 * Indicators of which slide you are on and when clicked will jump to the slide
-* Recycling - when reach the end, should start at the beginning
+* Recycling - when reach the last slide, should recycle to the beginning
 
 ### Configurable Parameters
 * delay (number): number of seconds before advancing
