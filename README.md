@@ -57,5 +57,6 @@ Write your code in ```js/slider.js``` which is already included in index.html.  
 
 ```
 js/slider.js
+stylesheets/style.css
 index.html
 ```
